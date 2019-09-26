@@ -1,4 +1,4 @@
-# nasa
+# helsinki event service to search for events near Kallio region
 
 ## local development
 
