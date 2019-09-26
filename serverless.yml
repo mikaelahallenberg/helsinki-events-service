@@ -1,0 +1,37 @@
+service: helsinki-events
+
+plugins:
+  - serverless-offline
+
+provider:
+  name: aws
+  runtime: nodejs10.x
+  stage: ${opt:stage, 'local'}
+  region: eu-central-1
+  deploymentBucket: hallenberg-hobby-bucket
+  logRetentionInDays: 365
+
+functions:
+  getEventsData:
+    handler: build/lambda.locationCodeHandler
+    events:
+      - http:
+          method: get
+          path: events/{locationCode}
+          cors:
+            headers:
+              - Content-Type
+              - X-Amz-Date
+              - Authorization
+              - X-Amz-Security-Token
+              - X-Amz-User-Agent
+            allowCredentials: true
+          request:
+            parameters:
+              paths:
+                locationCode: true
+resources:
+  Resources:
+    ApiGatewayRestApi:
+      Properties:
+        Name: helsinki-${self:provider.stage}

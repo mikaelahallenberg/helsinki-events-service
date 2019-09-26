@@ -1,0 +1,9 @@
+version: 0.2
+phases:
+  install:
+    commands:
+      - npm install
+  build:
+    commands:
+      - npm run build
+      - ./node_modules/.bin/serverless deploy --stage $STAGE

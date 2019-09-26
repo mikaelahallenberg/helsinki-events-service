@@ -1,0 +1,749 @@
+{
+  "meta": {
+    "count": "12"
+  },
+  "data": [
+    {
+      "id": "helsinki:afwwqavkpe",
+      "name": {
+        "fi": "Vallilan Tangon surullisimmat syysiskelmät",
+        "en": "Vallilan Tango",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://www.facebook.com/events/634063800454758/",
+      "modified_at": "2019-09-26T07:40:49.731Z",
+      "location": {
+        "lat": 60.1789436340332,
+        "lon": 24.947275161743164,
+        "address": {
+          "street_address": "Säästöpankinranta 6",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Vallilan Tangon tanssijaystävällinen sunnuntaikonsertti järjestetään ravintola Juttutuvassa kerran kuukaudessa.",
+        "body": "<p>Vallilan Tangon tanssijaystävällinen sunnuntaikonsertti järjestetään ravintola Juttutuvassa kerran kuukaudessa. </p><p>Tiukasti mollitaajuudelle itsensä virittänyt orkesteri esittää tällä kerralla tarkkaan valikoidun suurkattauksen synkkää ja surumielistä tunnelmaa sisältäviä 1930-ja 40-lukujen syysaiheisia kappaleita sekä alakuloisimpia iskelmiä. </p><p>Ravintola Juttutupa<br>6.10. klo 19</p><p>Vapaa pääsy</p>",
+        "images": [
+          {
+            "url": "https://api.hel.fi/linkedevents/media/images/uusVT_mv.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p755",
+          "name": "tangos (compositions)"
+        },
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p1278",
+          "name": "dance (performing arts)"
+        },
+        {
+          "id": "linkedevents:helfi:12",
+          "name": "Culture and leisure"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2019-10-06T16:00:00.000Z",
+        "ending_day": "2019-10-06T19:00:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helsinki:afwod3o7xy",
+      "name": {
+        "fi": "Sähkeet Uutiskomediashow 2019",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "http://www.jubileekomedia.com",
+      "modified_at": "2019-09-26T07:40:50.044Z",
+      "location": {
+        "lat": 60.178585052490234,
+        "lon": 24.94792938232422,
+        "address": {
+          "street_address": "Paasivuorenkatu 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Sähkeet- uutiskomediashow tulee Helsingin syksyyn jo viidettä kertaa.",
+        "body": "<p>Sähkeet- uutiskomediashow tulee Helsingin syksyyn jo viidettä kertaa. </p><p>Stand upia, musiikkia ja tanssia sisältävä nopeatempoinen komediajysäys kokoaa vuoden tapahtumat hilpeäksi paketiksi ja vuosi 2019 eletään pikakelauksella. </p><p>Viikoittain päivittyvää revyytä on kirjoittamassa median ja politiikan ammattilaisia. </p><p>6.11. klo 19 Sture Cafe Club, Sturenkatu 21<br>13.11. klo 19 Sture Cafe Club<br>20.11. klo 19 Paasin Kellari, Paasitorninkatu 5 <br>27.11. klo 19 Paasin Kellari <br>28.11. klo 19 Ravintola Kaupungintalo, Sofiankatu 1-3</p><p>4.12. klo 19 Paasin Kellari <br>5.12. klo 19 Ravintola Kaupungintalo<br>11.12. klo 19 Paasin Kellari <br>12.12. klo 19 Paasin Kellari <br>31.12. klo 20 Showroom Mechelin</p><p>Liput 25/20€, www.jubileekomedia.com</p>",
+        "images": [
+          {
+            "url": "https://api.hel.fi/linkedevents/media/images/S%C3%A4hkeet-2019.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p1278",
+          "name": "dance (performing arts)"
+        },
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:helfi:12",
+          "name": "Culture and leisure"
+        },
+        {
+          "id": "linkedevents:yso:p9244",
+          "name": "stand-up comedy"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2019-12-12T17:00:00.000Z",
+        "ending_day": null,
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helsinki:afwod3o7ky",
+      "name": {
+        "fi": "Sähkeet Uutiskomediashow 2019",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "http://www.jubileekomedia.com",
+      "modified_at": "2019-09-26T07:40:50.044Z",
+      "location": {
+        "lat": 60.178585052490234,
+        "lon": 24.94792938232422,
+        "address": {
+          "street_address": "Paasivuorenkatu 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Sähkeet- uutiskomediashow tulee Helsingin syksyyn jo viidettä kertaa.",
+        "body": "<p>Sähkeet- uutiskomediashow tulee Helsingin syksyyn jo viidettä kertaa. </p><p>Stand upia, musiikkia ja tanssia sisältävä nopeatempoinen komediajysäys kokoaa vuoden tapahtumat hilpeäksi paketiksi ja vuosi 2019 eletään pikakelauksella. </p><p>Viikoittain päivittyvää revyytä on kirjoittamassa median ja politiikan ammattilaisia. </p><p>6.11. klo 19 Sture Cafe Club, Sturenkatu 21<br>13.11. klo 19 Sture Cafe Club<br>20.11. klo 19 Paasin Kellari, Paasitorninkatu 5 <br>27.11. klo 19 Paasin Kellari <br>28.11. klo 19 Ravintola Kaupungintalo, Sofiankatu 1-3</p><p>4.12. klo 19 Paasin Kellari <br>5.12. klo 19 Ravintola Kaupungintalo<br>11.12. klo 19 Paasin Kellari <br>12.12. klo 19 Paasin Kellari <br>31.12. klo 20 Showroom Mechelin</p><p>Liput 25/20€, www.jubileekomedia.com</p>",
+        "images": [
+          {
+            "url": "https://api.hel.fi/linkedevents/media/images/S%C3%A4hkeet-2019.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p1278",
+          "name": "dance (performing arts)"
+        },
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:helfi:12",
+          "name": "Culture and leisure"
+        },
+        {
+          "id": "linkedevents:yso:p9244",
+          "name": "stand-up comedy"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2019-12-04T17:00:00.000Z",
+        "ending_day": null,
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helsinki:afwod3o65m",
+      "name": {
+        "fi": "Sähkeet Uutiskomediashow 2019",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "http://www.jubileekomedia.com",
+      "modified_at": "2019-09-26T07:40:50.044Z",
+      "location": {
+        "lat": 60.178585052490234,
+        "lon": 24.94792938232422,
+        "address": {
+          "street_address": "Paasivuorenkatu 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Sähkeet- uutiskomediashow tulee Helsingin syksyyn jo viidettä kertaa.",
+        "body": "<p>Sähkeet- uutiskomediashow tulee Helsingin syksyyn jo viidettä kertaa. </p><p>Stand upia, musiikkia ja tanssia sisältävä nopeatempoinen komediajysäys kokoaa vuoden tapahtumat hilpeäksi paketiksi ja vuosi 2019 eletään pikakelauksella. </p><p>Viikoittain päivittyvää revyytä on kirjoittamassa median ja politiikan ammattilaisia. </p><p>6.11. klo 19 Sture Cafe Club, Sturenkatu 21<br>13.11. klo 19 Sture Cafe Club<br>20.11. klo 19 Paasin Kellari, Paasitorninkatu 5 <br>27.11. klo 19 Paasin Kellari <br>28.11. klo 19 Ravintola Kaupungintalo, Sofiankatu 1-3</p><p>4.12. klo 19 Paasin Kellari <br>5.12. klo 19 Ravintola Kaupungintalo<br>11.12. klo 19 Paasin Kellari <br>12.12. klo 19 Paasin Kellari <br>31.12. klo 20 Showroom Mechelin</p><p>Liput 25/20€, www.jubileekomedia.com</p>",
+        "images": [
+          {
+            "url": "https://api.hel.fi/linkedevents/media/images/S%C3%A4hkeet-2019.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p1278",
+          "name": "dance (performing arts)"
+        },
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:helfi:12",
+          "name": "Culture and leisure"
+        },
+        {
+          "id": "linkedevents:yso:p9244",
+          "name": "stand-up comedy"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2019-11-27T17:00:00.000Z",
+        "ending_day": null,
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helsinki:afwod3o6qe",
+      "name": {
+        "fi": "Sähkeet Uutiskomediashow 2019",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "http://www.jubileekomedia.com",
+      "modified_at": "2019-09-26T07:40:50.044Z",
+      "location": {
+        "lat": 60.178585052490234,
+        "lon": 24.94792938232422,
+        "address": {
+          "street_address": "Paasivuorenkatu 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Sähkeet- uutiskomediashow tulee Helsingin syksyyn jo viidettä kertaa.",
+        "body": "<p>Sähkeet- uutiskomediashow tulee Helsingin syksyyn jo viidettä kertaa. </p><p>Stand upia, musiikkia ja tanssia sisältävä nopeatempoinen komediajysäys kokoaa vuoden tapahtumat hilpeäksi paketiksi ja vuosi 2019 eletään pikakelauksella. </p><p>Viikoittain päivittyvää revyytä on kirjoittamassa median ja politiikan ammattilaisia. </p><p>6.11. klo 19 Sture Cafe Club, Sturenkatu 21<br>13.11. klo 19 Sture Cafe Club<br>20.11. klo 19 Paasin Kellari, Paasitorninkatu 5 <br>27.11. klo 19 Paasin Kellari <br>28.11. klo 19 Ravintola Kaupungintalo, Sofiankatu 1-3</p><p>4.12. klo 19 Paasin Kellari <br>5.12. klo 19 Ravintola Kaupungintalo<br>11.12. klo 19 Paasin Kellari <br>12.12. klo 19 Paasin Kellari <br>31.12. klo 20 Showroom Mechelin</p><p>Liput 25/20€, www.jubileekomedia.com</p>",
+        "images": [
+          {
+            "url": "https://api.hel.fi/linkedevents/media/images/S%C3%A4hkeet-2019.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p1278",
+          "name": "dance (performing arts)"
+        },
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:helfi:12",
+          "name": "Culture and leisure"
+        },
+        {
+          "id": "linkedevents:yso:p9244",
+          "name": "stand-up comedy"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2019-11-20T17:00:00.000Z",
+        "ending_day": null,
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helsinki:afwod3o34a",
+      "name": {
+        "fi": "Sähkeet Uutiskomediashow 2019",
+        "en": null,
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "http://www.jubileekomedia.com",
+      "modified_at": "2019-09-26T07:40:50.044Z",
+      "location": {
+        "lat": 60.178585052490234,
+        "lon": 24.94792938232422,
+        "address": {
+          "street_address": "Paasivuorenkatu 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Sähkeet- uutiskomediashow tulee Helsingin syksyyn jo viidettä kertaa.",
+        "body": "<p>Sähkeet- uutiskomediashow tulee Helsingin syksyyn jo viidettä kertaa. </p><p>Stand upia, musiikkia ja tanssia sisältävä nopeatempoinen komediajysäys kokoaa vuoden tapahtumat hilpeäksi paketiksi ja vuosi 2019 eletään pikakelauksella. </p><p>Viikoittain päivittyvää revyytä on kirjoittamassa median ja politiikan ammattilaisia. </p><p>6.11. klo 19 Sture Cafe Club, Sturenkatu 21<br>13.11. klo 19 Sture Cafe Club<br>20.11. klo 19 Paasin Kellari, Paasitorninkatu 5 <br>27.11. klo 19 Paasin Kellari <br>28.11. klo 19 Ravintola Kaupungintalo, Sofiankatu 1-3</p><p>4.12. klo 19 Paasin Kellari <br>5.12. klo 19 Ravintola Kaupungintalo<br>11.12. klo 19 Paasin Kellari <br>12.12. klo 19 Paasin Kellari <br>31.12. klo 20 Showroom Mechelin</p><p>Liput 25/20€, www.jubileekomedia.com</p>",
+        "images": [
+          {
+            "url": "https://api.hel.fi/linkedevents/media/images/S%C3%A4hkeet-2019.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p1278",
+          "name": "dance (performing arts)"
+        },
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:helfi:12",
+          "name": "Culture and leisure"
+        },
+        {
+          "id": "linkedevents:yso:p9244",
+          "name": "stand-up comedy"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2019-11-20T17:00:00.000Z",
+        "ending_day": null,
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helsinki:afwwpd6jzi",
+      "name": {
+        "fi": "20 000 Hz, Mustaa Jäätelöö",
+        "en": "20 000 Hz, Mustaa Jäätelöö",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://www.facebook.com/events/382302549370766/",
+      "modified_at": "2019-09-26T07:40:49.731Z",
+      "location": {
+        "lat": 60.18180847167969,
+        "lon": 24.951263427734375,
+        "address": {
+          "street_address": "Porthaninkatu 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "20 000 Hz sekä ex-Hertsilaulaja Emmun uusi yhtye Mustaa Jäätelöö esiintyvät saman illan aikana ravintola Oivassa.",
+        "body": "<p>20 000 Hz sekä ex-Hertsilaulaja Emmun uusi yhtye Mustaa Jäätelöö esiintyvät saman illan aikana ravintola Oivassa.</p><p>20 000 Hz:n musiikki on nyrjähtänyttä discoa performance-hengessä Lo-Fi -soundeilla, lisättynä valoshow taskulampuilla. </p><p>Ambient-pop-darklaulelma - yhtye Mustaa Jäätelöö aloitti 2017 salaisena vaatekomeroprojektina ja on nykyään yhtye, jossa soittaa Jussa Pennanen (Dispuhtamo), Oliver Vierkens (toimii useissa yhtyeissä) ja Emmu Johansson.</p><p>Ravintola Oiva<br>23.10. klo 19.30</p><p>Vapaa pääsy</p>",
+        "images": [
+          {
+            "url": "https://api.hel.fi/linkedevents/media/images/35151771_1679913738723231_7.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p2108",
+          "name": "events"
+        },
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p27962",
+          "name": "live music"
+        },
+        {
+          "id": "linkedevents:helfi:12",
+          "name": "Culture and leisure"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2019-10-23T16:30:00.000Z",
+        "ending_day": "2019-10-23T19:00:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helsinki:afwwfmw6zy",
+      "name": {
+        "fi": "Duo Juippi & Juippi",
+        "en": "Duo Juippi & Juippi",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://www.facebook.com/events/1140035856182348/",
+      "modified_at": "2019-09-26T07:40:49.764Z",
+      "location": {
+        "lat": 60.18180847167969,
+        "lon": 24.951263427734375,
+        "address": {
+          "street_address": "Porthaninkatu 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Duo Juippi & Juippi at Oivan KeikkaKeskiviikko",
+        "body": "<p>Duo Juippi &amp; Juippi at Oivan KeikkaKeskiviikko</p><p>Duo Juippi &amp; Juippi (Jukka Haikonen, mandoliini ja dobro &amp; Mikko Perkoila, kitara ja huuliharppu) esittää Ravintola Oivassa akustisten soittimien säestyksellä ja vuosikymmenten kokemuksella amerikkalaisperäistä folk/kantri/blues/bluegrassmusiikkia. </p><p>Juippien ohjelmisto koostuu biiseistä jotka on jääneet aikojen alussa takaraivoon soimaan ja haluavat nyt tulla hyödynnetyiksi, kuten Jimmie Rodgersia, Hank Williamsia, Merle ja Randy Travisia, Hy Zaretia, J.J.Calea, Jerry Jeff Walkeria, Guthriea, Dylania  alkukielellä tai suomeksi omina käännöksinä - mukana myös amerikansuomalaisia juttuja. </p><p>Ravintola Oiva<br>9.10. klo 19.30</p><p>Vapaa pääsy</p>",
+        "images": [
+          {
+            "url": "https://api.hel.fi/linkedevents/media/images/juippi.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p5499",
+          "name": "country rock"
+        },
+        {
+          "id": "linkedevents:yso:p27962",
+          "name": "live music"
+        },
+        {
+          "id": "linkedevents:helfi:12",
+          "name": "Culture and leisure"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2019-10-09T16:30:00.000Z",
+        "ending_day": "2019-10-09T19:00:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helsinki:afwv4nxvp4",
+      "name": {
+        "fi": "Trubaduuritiistai",
+        "en": "Troubadour Tuesday ",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://www.facebook.com/events/460866401168151/",
+      "modified_at": "2019-09-26T07:40:49.790Z",
+      "location": {
+        "lat": 60.18180847167969,
+        "lon": 24.951263427734375,
+        "address": {
+          "street_address": "Porthaninkatu 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Joka kuukauden ensimmäinen tiistai trubaduuri Eetu Laine esiintyy Ravintola Oivassa soittaen country ja roots klassikoita suomeksi ja englanniksi.",
+        "body": "<p>Joka kuukauden ensimmäinen tiistai trubaduuri Eetu Laine esiintyy Ravintola Oivassa soittaen country ja roots klassikoita suomeksi ja englanniksi.</p><p>Ravintola Oiva</p><p>1.10. klo 19.30<br>5.11. klo 19.30<br>3.12. klo 19.30</p><p>Vapaa pääsy</p>",
+        "images": [
+          {
+            "url": "https://api.hel.fi/linkedevents/media/images/WhatsApp-Image-2019-09-21-a.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p5499",
+          "name": "country rock"
+        },
+        {
+          "id": "linkedevents:yso:p27962",
+          "name": "live music"
+        },
+        {
+          "id": "linkedevents:helfi:12",
+          "name": "Culture and leisure"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2019-12-03T17:30:00.000Z",
+        "ending_day": "2019-12-03T19:30:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helsinki:afwv4nxvce",
+      "name": {
+        "fi": "Trubaduuritiistai",
+        "en": "Troubadour Tuesday ",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://www.facebook.com/events/460866401168151/",
+      "modified_at": "2019-09-26T07:40:49.790Z",
+      "location": {
+        "lat": 60.18180847167969,
+        "lon": 24.951263427734375,
+        "address": {
+          "street_address": "Porthaninkatu 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Joka kuukauden ensimmäinen tiistai trubaduuri Eetu Laine esiintyy Ravintola Oivassa soittaen country ja roots klassikoita suomeksi ja englanniksi.",
+        "body": "<p>Joka kuukauden ensimmäinen tiistai trubaduuri Eetu Laine esiintyy Ravintola Oivassa soittaen country ja roots klassikoita suomeksi ja englanniksi.</p><p>Ravintola Oiva</p><p>1.10. klo 19.30<br>5.11. klo 19.30<br>3.12. klo 19.30</p><p>Vapaa pääsy</p>",
+        "images": [
+          {
+            "url": "https://api.hel.fi/linkedevents/media/images/WhatsApp-Image-2019-09-21-a.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p5499",
+          "name": "country rock"
+        },
+        {
+          "id": "linkedevents:yso:p27962",
+          "name": "live music"
+        },
+        {
+          "id": "linkedevents:helfi:12",
+          "name": "Culture and leisure"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2019-11-05T17:30:00.000Z",
+        "ending_day": "2019-11-05T19:30:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helsinki:afwv4nxuxi",
+      "name": {
+        "fi": "Trubaduuritiistai",
+        "en": "Troubadour Tuesday ",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://www.facebook.com/events/460866401168151/",
+      "modified_at": "2019-09-26T07:40:49.790Z",
+      "location": {
+        "lat": 60.18180847167969,
+        "lon": 24.951263427734375,
+        "address": {
+          "street_address": "Porthaninkatu 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Joka kuukauden ensimmäinen tiistai trubaduuri Eetu Laine esiintyy Ravintola Oivassa soittaen country ja roots klassikoita suomeksi ja englanniksi.",
+        "body": "<p>Joka kuukauden ensimmäinen tiistai trubaduuri Eetu Laine esiintyy Ravintola Oivassa soittaen country ja roots klassikoita suomeksi ja englanniksi.</p><p>Ravintola Oiva</p><p>1.10. klo 19.30<br>5.11. klo 19.30<br>3.12. klo 19.30</p><p>Vapaa pääsy</p>",
+        "images": [
+          {
+            "url": "https://api.hel.fi/linkedevents/media/images/WhatsApp-Image-2019-09-21-a.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p5499",
+          "name": "country rock"
+        },
+        {
+          "id": "linkedevents:yso:p27962",
+          "name": "live music"
+        },
+        {
+          "id": "linkedevents:helfi:12",
+          "name": "Culture and leisure"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2019-10-01T16:30:00.000Z",
+        "ending_day": "2019-10-01T18:30:00.000Z",
+        "additional_description": null
+      }
+    },
+    {
+      "id": "helsinki:afwv4nxsaq",
+      "name": {
+        "fi": "Trubaduuritiistai",
+        "en": "Troubadour Tuesday ",
+        "sv": null,
+        "zh": null
+      },
+      "source_type": {
+        "id": 1,
+        "name": "LinkedEvents"
+      },
+      "info_url": "https://www.facebook.com/events/460866401168151/",
+      "modified_at": "2019-09-26T07:40:49.790Z",
+      "location": {
+        "lat": 60.18180847167969,
+        "lon": 24.951263427734375,
+        "address": {
+          "street_address": "Porthaninkatu 5",
+          "postal_code": "00530",
+          "locality": "Helsinki"
+        }
+      },
+      "description": {
+        "intro": "Joka kuukauden ensimmäinen tiistai trubaduuri Eetu Laine esiintyy Ravintola Oivassa soittaen country ja roots klassikoita suomeksi ja englanniksi.",
+        "body": "<p>Joka kuukauden ensimmäinen tiistai trubaduuri Eetu Laine esiintyy Ravintola Oivassa soittaen country ja roots klassikoita suomeksi ja englanniksi.</p><p>Ravintola Oiva</p><p>1.10. klo 19.30<br>5.11. klo 19.30<br>3.12. klo 19.30</p><p>Vapaa pääsy</p>",
+        "images": [
+          {
+            "url": "https://api.hel.fi/linkedevents/media/images/WhatsApp-Image-2019-09-21-a.jpg",
+            "copyright_holder": "",
+            "license_type": {
+              "id": 1,
+              "name": "All rights reserved."
+            }
+          }
+        ]
+      },
+      "tags": [
+        {
+          "id": "linkedevents:yso:p1808",
+          "name": "music"
+        },
+        {
+          "id": "linkedevents:yso:p5499",
+          "name": "country rock"
+        },
+        {
+          "id": "linkedevents:yso:p27962",
+          "name": "live music"
+        },
+        {
+          "id": "linkedevents:helfi:12",
+          "name": "Culture and leisure"
+        }
+      ],
+      "event_dates": {
+        "starting_day": "2019-10-01T16:30:00.000Z",
+        "ending_day": "2019-12-03T19:30:00.000Z",
+        "additional_description": null
+      }
+    }
+  ],
+  "tags": {
+    "linkedevents:helfi:12": "Culture and leisure",
+    "linkedevents:yso:p1278": "dance (performing arts)",
+    "linkedevents:yso:p1808": "music",
+    "linkedevents:yso:p2108": "events",
+    "linkedevents:yso:p27962": "live music",
+    "linkedevents:yso:p5499": "country rock",
+    "linkedevents:yso:p755": "tangos (compositions)",
+    "linkedevents:yso:p9244": "stand-up comedy"
+  }
+}

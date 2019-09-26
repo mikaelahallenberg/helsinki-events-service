@@ -1,0 +1,36 @@
+{
+  "name": "helsinki-events-service",
+  "version": "1.0.0",
+  "description": "## local development",
+  "main": "lambda.js",
+  "scripts": {
+    "watch": "tsc -w",
+    "test": "jest src/test/*.ts",
+    "build": "tsc",
+    "start:local": "serverless offline"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "8.10.31",
+    "@types/jest": "24.0.18",
+    "@types/node": "10.14.17",
+    "jest": "^24.9.0",
+    "serverless": "1.52.0",
+    "serverless-offline": "5.10.1",
+    "ts-jest": "24.0.2",
+    "ts-loader": "5.4.5",
+    "typescript": "3.6.3"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^5.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikaelahallenberg/helsinki-events-service.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mikaelahallenberg/helsinki-events-service/issues"
+  },
+  "homepage": "https://github.com/mikaelahallenberg/helsinki-events-service#readme"
+}
